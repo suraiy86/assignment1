@@ -86,7 +86,55 @@ nav {
     font-weight: 400;
     line-height: 24px;
 }
-.btn-2{
+
+.btn-2 {
     background-color: black;
     color: white;
+}
+
+/* bnr section style complete */
+
+
+.sec-heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+.sec-head {
+    color: #0D1321;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.section {
+    max-width: 1060px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.bnr-des {
+    color: #0D1321;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.sec-content {
+    display: flex;
+    align-items: center;
+    padding: 44px;
+    background: linear-gradient(90deg, #FFF 0%, rgba(255, 255, 255, 0.00) 100%);
+
+    
+}
+
+.why {
+    padding: 90px;
+    background: rgba(13, 19, 33, 0.02);
+
+    ;
 }
