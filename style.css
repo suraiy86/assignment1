@@ -164,3 +164,76 @@ nav {
 }
 
 /* why section style completed */
+
+.inspiration {
+    margin: 80px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.iframe {
+
+    background-color: black;
+    margin: 10px;
+}
+
+/* completed inspiration section */
+.cur-target{
+    margin-bottom: 100px;
+}
+.sec-contentx {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 22px;
+    margin-bottom: 40px;
+}
+
+.card-container {
+    display: flex;
+    gap: 22px;
+
+
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 22px;
+    border-radius: 16px;
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 37px;
+
+}
+
+.card-1 {
+    background-color: rgba(0, 76, 232, 0.05);
+}
+
+.card-2 {
+    background-color: rgba(255, 223, 0, 0.05);
+}
+
+.card-head {
+    color: #0D1321;
+
+
+    font-size: 22px;
+
+    font-weight: 800;
+    line-height: 33px;
+}
+
+.card-des {
+    color: #0D1321;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+.full-des{
+    color: #0D1321;
+}
+/* current section style complete */
